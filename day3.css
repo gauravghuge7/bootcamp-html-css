@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.product {
+
+    height: 400px;
+    width: 70%;
+    background-color: red;
+}
+
+ .child {
+    height: 200px;
+    width: 50%;
+    background-color: yellow;
+ }
